@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "skrp-npfr-database1",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "15efa0f4-ff36-45d5-b31f-6691241fec7a",
+			"database_name": "npfr_logs"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
